@@ -1,0 +1,70 @@
+# Core ML/AI - Compatible versions
+torch==2.1.2
+scikit-learn==1.4.0
+xgboost==2.0.3
+lightgbm==4.2.0
+
+# Time Series & Forecasting
+statsmodels==0.14.1
+pmdarima==2.0.4
+
+# Reinforcement Learning
+stable-baselines3==2.2.1
+gymnasium==0.29.1
+
+# Deep Learning Utilities
+pytorch-lightning==2.1.3
+optuna==3.5.0
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.3
+pyarrow==14.0.2
+
+# Visualization
+plotly==5.18.0
+matplotlib==3.8.2
+seaborn==0.13.1
+streamlit==1.30.0
+
+# API & Backend
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+python-multipart==0.0.6
+
+# Explainable AI
+shap==0.44.1
+lime==0.2.0.1
+
+# Anomaly Detection
+pyod==1.1.3
+
+# Utilities
+python-dotenv==1.0.0
+tqdm==4.66.1
+joblib==1.3.2
+pyyaml==6.0.1
+
+# Date/Time
+python-dateutil==2.8.2
+pytz==2023.3
+
+# Network/HTTP
+requests==2.31.0
+
+# RAG & LLM (pour chatbot)
+langchain>=0.1.0
+langchain-core>=0.1.7
+langchain-google-genai>=0.0.6
+langchain-pinecone>=0.0.1
+pinecone-client>=3.0.0
+google-generativeai>=0.3.2
+
+# Excel Export
+openpyxl==3.1.2
+xlsxwriter==3.1.9
+
+# Email
+flask==3.0.0
+flask-cors==4.0.0

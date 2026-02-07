@@ -1,0 +1,22 @@
+{
+  "station_id": "OUG_ZOG",
+  "total_steps": 50000,
+  "duration_seconds": 120.763286,
+  "final_avg_reward": -624372882.9362811,
+  "best_reward": -623582234.6635553,
+  "worst_reward": -625163531.2090069,
+  "rewards_history": [
+    -623582234.6635553,
+    -625163531.2090069
+  ],
+  "config": {
+    "hidden_size": 256,
+    "learning_rate": 0.0003,
+    "gamma": 0.99,
+    "gae_lambda": 0.95,
+    "clip_epsilon": 0.2,
+    "epochs": 10,
+    "batch_size": 64
+  },
+  "timestamp": "2026-01-28T03:21:43.474697"
+}

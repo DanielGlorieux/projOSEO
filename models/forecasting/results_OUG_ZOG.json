@@ -1,0 +1,19 @@
+{
+  "station_id": "OUG_ZOG",
+  "model": "LSTM",
+  "metrics": {
+    "MSE": 566912.9678389203,
+    "RMSE": 752.9362309245852,
+    "MAE": 544.1736042101013,
+    "MAPE": 29.38266588520114,
+    "R2": -0.01794962013616308
+  },
+  "config": {
+    "hidden_size": 128,
+    "num_layers": 3,
+    "dropout": 0.2,
+    "learning_rate": 0.001,
+    "forecast_horizon": 24
+  },
+  "timestamp": "2026-01-28T03:19:40.959999"
+}
